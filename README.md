@@ -19,12 +19,12 @@
     <!-- Estilo customizado -->
   <link rel="stylesheet" type="text/css" href="css/estilo.css">
 
-  <title>Música para todos - Spotify</title>
+<title>Música para todos - Spotify</title>
     <link rel="icon" href="imagens/favicon.png">
   </head>
   <body>
     
-    <header>
+<header>
   <nav class="navbar navbar-expand-md navbar-light fixed-top navbar-transparente">
         <div class="container">
             <a href="index.html" class="navbar-brand">
